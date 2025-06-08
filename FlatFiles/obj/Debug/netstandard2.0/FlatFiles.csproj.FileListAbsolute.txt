@@ -1,0 +1,12 @@
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Debug\netstandard2.0\FlatFiles.xml
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Debug\netstandard2.0\FlatFiles.deps.json
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Debug\netstandard2.0\FlatFiles.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Debug\netstandard2.0\FlatFiles.pdb
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.AssemblyInfoInputs.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.AssemblyInfo.cs
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Debug\netstandard2.0\FlatFiles.pdb

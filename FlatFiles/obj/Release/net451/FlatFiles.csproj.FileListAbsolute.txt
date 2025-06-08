@@ -1,0 +1,15 @@
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Release\net451\FlatFiles.xml
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Release\net451\FlatFiles.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Release\net451\FlatFiles.pdb
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Release\net451\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Release\net451\System.Threading.Tasks.Extensions.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\bin\Release\net451\System.ValueTuple.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.csprojAssemblyReference.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.Properties.Resources.resources
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.csproj.GenerateResource.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.AssemblyInfoInputs.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.AssemblyInfo.cs
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.csproj.CoreCompileInputs.cache
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.csproj.CopyComplete
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.dll
+C:\Users\José Antonio\source\repos\FlatFiles\FlatFiles\obj\Release\net451\FlatFiles.pdb

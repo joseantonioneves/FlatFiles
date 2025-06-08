@@ -1,0 +1,62 @@
+﻿using System;
+using System.Globalization;
+
+namespace FlatFiles
+{
+    /// <summary>
+    /// Represents a column of byte values.
+    /// </summary>
+    public sealed class ByteColumn : ColumnDefinition<byte>
+    {
+        /// <summary>
+        /// Initializes a new instance of a ByteColumn.
+        /// </summary>
+        /// <param name="columnName">The name of the column.</param>
+        public ByteColumn(string columnName)
+            : base(columnName)
+        {
+        }
+
+        /// <summary>
+        /// Gets or sets the format provider to use to parse the value.
+        /// </summary>
+        public IFormatProvider FormatProvider { get; set; }
+
+        /// <summary>
+        /// Gets or sets the number styles to use when parsing the value.
+        /// </summary>
+        public NumberStyles NumberStyles { get; set; } = NumberStyles.Integer;
+
+        /// <summary>
+        /// Gets or sets the formatting to use when converting the value to a string.
+        /// </summary>
+        public string OutputFormat { get; set; }
+
+        /// <summary>
+        /// Parses the given value into a byte.
+        /// </summary>
+        /// <param name="context">Holds information about the column current being processed.</param>
+        /// <param name="value">The value to parse.</param>
+        /// <returns>The parsed byte value.</returns>
+        protected override byte OnParse(IColumnContext context, string value)
+        {
+            return Byte.Parse(value, NumberStyles, GetFormatProvider(context, FormatProvider));
+        }
+
+        /// <summary>
+        /// Formats the given object.
+        /// </summary>
+        /// <param name="context">Holds information about the column current being processed.</param>
+        /// <param name="value">The object to format.</param>
+        /// <returns>The formatted value.</returns>
+        protected override string OnFormat(IColumnContext context, byte value)
+        {
+            var provider = GetFormatProvider(context, FormatProvider);
+            if (OutputFormat == null)
+            {
+                return value.ToString(provider);
+            }
+            return value.ToString(OutputFormat, provider);
+        }
+    }
+}
